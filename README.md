@@ -1,5 +1,5 @@
 # Minecraft-Digital-Circuit
-Build digital circuits in Minecraft 在游戏我的世界中搭建数字电路
+在游戏我的世界中搭建数字电路 Build digital circuits in Minecraft
 
 本项目利用游戏中的简单逻辑元件构建出复杂的组合和时序逻辑“电路”，不需要考虑现实中的晶体管电路所涉及到的电气特性和器件工艺等问题，通过一种直观的三维可视化方式展示一个较为纯粹的可计算模型。
 
