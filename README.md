@@ -18,5 +18,6 @@
 我使用了一个很有用的工具，叫MCEdit，可以方便快捷地编辑游戏存档中的三维结构，使得电路搭建比纯手搭节约了很多时间，下载这个工具可以去MCEdit Unified官网。
 关于介绍的文档目前没有写完，日后会继续完善。
 
-![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/adder.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view02.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/view01.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/adder.jpg)
