@@ -2,8 +2,6 @@
 
 本项目利用Minecraft游戏中的简单逻辑元件构建出复杂的组合和时序逻辑“电路”，不需要考虑现实中的晶体管电路所涉及到的电气特性和器件工艺等问题，通过一种直观的三维可视化方式展示一个较为纯粹的可计算模型。
 
-![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/adder.jpg)
-
 在saves目录下包含三个存档
 
 用于教学的存档Digital-Circuit-Basic，里面搭建了常用的从简单到复杂的数字电路结构，该存档适用于Minecraft-1.12版本及以上，我自己用的是1.12.2。
@@ -20,5 +18,5 @@
 我使用了一个很有用的工具，叫MCEdit，可以方便快捷地编辑游戏存档中的三维结构，使得电路搭建比纯手搭节约了很多时间，下载这个工具可以去MCEdit Unified官网。
 关于介绍的文档目前没有写完，日后会继续完善。
 
-
-
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/adder.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view02.jpg)
