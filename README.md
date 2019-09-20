@@ -20,5 +20,6 @@
 关于介绍的文档目前没有写完，日后会继续完善。
 
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view02.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view03.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/view01.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/adder.jpg)
