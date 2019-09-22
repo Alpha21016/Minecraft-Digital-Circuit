@@ -23,9 +23,9 @@
 
 更新记录：
 
-2019-09-20更新：增加了部分基础电路模块比如或非门和与非门，完善了模块列表文档，列出了每个电路模块的坐标以便于寻找。
+2019-09-22更新：教学存档中增加了quiz模块，里面暂时有5个问题，以后还会增加。我给的参考答案在每个问题旁边的小木屋内，每道题并不一定只有唯一解。
 
-2019-09-22更新：增加了quiz部分，里面暂时有5个问题，以后还会增加。我给的参考答案在每个问题旁边的小木屋内，每道题并不一定只有唯一解。
+2019-09-20更新：教学存档中增加了部分基础电路模块比如或非门和与非门，完善了模块列表文档，列出了每个电路模块的坐标以便于寻找。
 
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view02.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view03.jpg)
