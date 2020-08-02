@@ -2,8 +2,6 @@
 
 本项目利用Minecraft游戏中的简单信号元件构建出复杂的组合和时序数字“电路”，通过一种直观的三维可视化方式展示一个较为纯粹的可计算模型。这个模型不需要考虑现实中的晶体管电路所涉及到的电气特性和器件工艺等问题，是一个虚拟的图灵完备的逻辑结构。
 
-【重要声明】本作品不支持任何公众号和自媒体为了吸引流量而进行夸大事实的改编和转载，不希望被反复炒冷饭。目前我只授权了知乎用户Deftercanda和公众号量子位进行了转载，其他所有改编者和转载者均没有被我本人允许。本作品并没有个别自媒体宣传的那样夸张，只是一个基础的数字电路和计算机组成原理的应用。本作品全部开源，非盈利，所有内容以我本人的文章和存档为准。
-
 在saves目录下包含三个存档
 
 用于教学的存档Digital-Circuit-Basic，里面搭建了常用的从简单到复杂的数字电路结构，该存档适用于Minecraft-1.12版本及以上，我自己用的是1.12.2。
@@ -26,6 +24,8 @@
 
 更新记录：
 
+2020-08-03更新：教学存档中增加键盘和显示器模块，详见“教学存档单元和模块列表.xlsx”。
+
 2019-09-28更新：增加文档“异或门和全加器最简结构设计原理”，有详细的基础电路设计思路。教学存档中增加了粘性活塞版的与门。
 
 2019-09-23更新：教学存档中增加部分精简版的基础电路模块，quiz中增加第6个问题，内容是关于建造全加器。
@@ -34,9 +34,13 @@
 
 2019-09-20更新：教学存档中增加了部分基础电路模块比如或非门，与非门，RS或非触发器等。完善了模块列表文档，列出了每个电路模块的坐标以便于寻找。
 
+【重要声明】本作品不支持任何公众号和自媒体为了吸引流量而进行夸大事实的改编和转载，不希望被反复炒冷饭。目前我只授权了知乎用户Deftercanda和公众号量子位进行了转载，其他所有改编者和转载者均没有被我本人允许。本作品并没有个别自媒体宣传的那样夸张，只是一个基础的数字电路和计算机组成原理的应用。本作品全部开源，非盈利，所有内容以我本人的文章和存档为准。
+
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view02.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Alpha21016/view03.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/view01.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/view02.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/adder.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/键盘显示器-黑夜.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/键盘显示器-背面.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/map.png)
