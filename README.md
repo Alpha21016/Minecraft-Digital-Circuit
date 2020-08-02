@@ -41,6 +41,6 @@
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/view01.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/view02.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/adder.jpg)
-![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/键盘显示器-黑夜.jpg)
-![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/键盘显示器-背面.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/screen-night.jpg)
+![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/screen-back.jpg)
 ![Image text](https://github.com/Alpha21016/Minecraft-Digital-Circuit/blob/master/images/Basic/map.png)
